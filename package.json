@@ -10,7 +10,7 @@
     "bluebird": "3.5.0",
     "le-acme-core": "https://github.com/rolodato/le-acme-core#semver:2.1.0",
     "ms": "2.0.0",
-    "node-forge": "0.7.1",
+    "node-forge": "1.3.0",
     "request": "2.88.2",
     "request-promise": "4.2.1",
     "rsa-compat": "1.2.7",
